@@ -27,9 +27,6 @@ function iLoveTheBeatles(num) {
   // create a variable that stores an empty array.
   let arr = [];
 
-  // implement a do-while loop inside the function that adds "I love the Beatles!" to the empty array.
-  // the loop should increment the number passed as a parameter.
-  // the condition of the loop should check that the parameter number is less than 15
   do {
     arr.push("I love the Beatles!");
     num++;  
